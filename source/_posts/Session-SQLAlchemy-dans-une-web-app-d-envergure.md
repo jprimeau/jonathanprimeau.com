@@ -3,9 +3,6 @@ date: 2016/8/1 9:50:00
 categories:
 - SQLAlchemy
 ---
-Session SQLAlchemy dans une web app d'envergure
-===============================================
-
 Introduction
 ------------
 
